@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ConveyorTowerSwag/src"/>
+	<classpathentry kind="src" path="Copy of TestBed/src"/>
+	<classpathentry kind="src" path="Simple Vision/src"/>
+	<classpathentry kind="src" path="TestBed_old crap/src"/>
+	<classpathentry kind="src" path="TestBed/src"/>
+	<classpathentry kind="src" path="Working/src"/>
+	<classpathentry kind="lib" path="ConveyorTowerSwag/build/jars/NetworkTables.jar"/>
+	<classpathentry kind="lib" path="ConveyorTowerSwag/build/jars/WPILib.jar"/>
+	<classpathentry kind="lib" path="ConveyorTowerSwag/dist/FRCUserProgram.jar"/>
+	<classpathentry kind="lib" path="Copy of TestBed/build/jars/NetworkTables.jar"/>
+	<classpathentry kind="lib" path="Copy of TestBed/build/jars/WPILib.jar"/>
+	<classpathentry kind="lib" path="Copy of TestBed/dist/FRCUserProgram.jar"/>
+	<classpathentry kind="lib" path="Simple Vision/build/jars/NetworkTables.jar"/>
+	<classpathentry kind="lib" path="Simple Vision/build/jars/WPILib.jar"/>
+	<classpathentry kind="lib" path="Simple Vision/dist/FRCUserProgram.jar"/>
+	<classpathentry kind="lib" path="TestBed_old crap/build/jars/NetworkTables.jar"/>
+	<classpathentry kind="lib" path="TestBed_old crap/build/jars/WPILib.jar"/>
+	<classpathentry kind="lib" path="TestBed_old crap/dist/FRCUserProgram.jar"/>
+	<classpathentry kind="lib" path="TestBed/build/jars/NetworkTables.jar"/>
+	<classpathentry kind="lib" path="TestBed/build/jars/WPILib.jar"/>
+	<classpathentry kind="lib" path="TestBed/dist/FRCUserProgram.jar"/>
+	<classpathentry kind="lib" path="Working/build/jars/NetworkTables.jar"/>
+	<classpathentry kind="lib" path="Working/build/jars/WPILib.jar"/>
+	<classpathentry kind="lib" path="Working/dist/FRCUserProgram.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="ConveyorTowerSwag/bin"/>
+</classpath>
